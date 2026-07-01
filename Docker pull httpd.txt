@@ -1,2 +1,0 @@
-Docker pull httpd
-Docker run -ltd -p "8081:80" httpd
